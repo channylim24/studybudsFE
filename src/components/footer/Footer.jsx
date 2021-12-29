@@ -57,9 +57,9 @@ function Footer() {
         <div className={footerstyle.firstSide}>
           <img src={logo} alt="logo" className={footerstyle.brandLogo} />
           <p className={footerstyle.brandParagraph}>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Est in
-            neque aliquet vitae turpis amet, urna netus sed. Eu semper eu neque,
-            massa pharetra orci fusce ac.
+            Studybuds is an app to create an online study group with strangers.
+            Looking for a new study group? Join us now and check out all
+            available classes for you!
           </p>
           <div className={footerstyle.iconsContainer}>
             <div className={footerstyle.iconContainer}>
